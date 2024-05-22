@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Otogaleriotomasyon": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Furkan\\Desktop\\sonotogaleri\\sonotogaleri",
+      "nativeDebugging": true
+    }
+  }
+}

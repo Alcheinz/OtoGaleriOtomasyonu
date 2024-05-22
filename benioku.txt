@@ -1,0 +1,18 @@
+Mersin Üniversitesi Bilgisayar Teknolojileri Bölümü Bilgisayar Programcılığı Programı Sistem Analizi Ve Tasarımı dersi için hazırlanmıştır.
+
+
+
+-----Oto Galeri Otomasyon Sistemi------
+
+Admin giriş bilgileri: admin/mersin
+Hazır müşteri giriş bilgisi: furkan/şifre
+
+!! Projeyi Visual Studio'da açtığınızda başlatmazsa hata ayıklama özelliklerine girip çalışma dizinini projenin dizini olarak seçmelisiniz.
+
+SQL dosyasını xampp ile içe aktarmalısınız. Bilgiler (port vs.) default.
+
+
+--------Öğrenciler---------
+Oktay Yoldaş
+Furkan Kalkan
+
